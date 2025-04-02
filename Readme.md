@@ -4,6 +4,27 @@ This repository contains structured notes on Android development, covering topic
 
 ## 📚 Contents
 
+### Unit 1
+
+#### Files:
+
+- [`Smart phone operating systems and smart phones applications`](Unit-1/SmartphoneOperatingSystem.md)
+- [`Introduction to Android`](Unit-1/IntroToAndroid.md)
+- [`Creating Android App Project`](Unit-1/CreateAndroidProject.md)
+- [`Deploying the App`](Unit-1/DeployApp.md)
+- [`Building a Layout`](Unit-1/BuildingALayout.md)
+- [`Layouts, Views and Resources`](Unit-1/LayoutViewsResources.md)
+- [`Text and Scrolling Views`](Unit-1/TextAndScrollingViews.md)
+- [`Activities and Intents`](Unit-1/ActivitiesAndIntents.md)
+- [`Activity Lifecycle`](Unit-1/ActivityLifecycle.md)
+- [`Managing State`](Unit-1/ManagingState.md)
+- [`Activties and Implicit Intents`](Unit-1/ActivitiesAndImplicitIntents.md)
+- [`Android Studio Debugger`](Unit-1/AndroidStudioDebugger.md)
+- [`Testing Android App`](Unit-1/TestingAndroidApp.md)
+- [`Android Support Library`](Unit-1/AndroidSupportLibrary.md)
+
+---
+
 ### Unit 2: User experience
 
 #### Files:
