@@ -64,7 +64,7 @@ This repository contains structured notes on Android development, covering topic
 - [`Sharing Data Content Providers`](Unit-4/SharingDataContentProviders.md)
 - [`Advanced Android Programming`](Unit-4/AdvancedAndroidProgramming.md)
 - [`Display WebPage and Maps`](Unit-4/DisplayWebPageandMaps.md)
-- [`Communication with Email and SMS`](Unit-4/CommEmailInSMS.md)
+- [`Communication with Email and SMS`](Unit-4/CommEmailnSMS.md)
 - [`Sensors`](Unit-4/Sensors.md)
 
 
