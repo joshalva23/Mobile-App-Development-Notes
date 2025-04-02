@@ -4,6 +4,14 @@ This repository contains structured notes on Android development, covering topic
 
 ## 📚 Contents
 
+### Unit 3: Working in the Background
+
+#### Files:
+- [`AsyncTaskandAsyncTaskLoader.md`](Unit-3/AsyncTaskandLoader.md)
+- [`ConnectToInternet.md`](Unit-3/ConnectToInternet.md)
+- [`BroadcastReceiverAndServices.md`](Unit-3/BroadCastReceiversandServices.md)
+- [`SchedulingAndManagingBackgroundTasks.md`](Unit-3/SchedulingAndManagingBGTasks.md)
+
 ### Unit 4: All About Data 
 
 #### Files:
